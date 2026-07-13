@@ -20,8 +20,8 @@ This tutorial outlines the installation and admin user creation of on-premises A
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - [Step 1: Setup Domain Controller in Azure](#step-1-create-resource-group-on-azure) 
-- Step 2: Install Active Directory
-- Step 3: Create a Domain Admin User
+- [Step 2: Install Active Directory](#step-5-login-in-to-your-vm-through-remote-desktop)
+- [Step 3: Create a Domain Admin User](#step-8-login-to-your-domain-controller-using-your-new-domain-name-through-remote-desktop)
 
 <h2>Deployment and Configuration Steps</h2>
 
